@@ -1,3 +1,3 @@
-Recuerda revisar el tema de la revisar manipulacion del DOM me parece que esto fue lo que mas se te complico.
-Por ultimo, no te olvides de hacer uso de las herramientas para hacer debbuging, incluidas las que ya tienes en el navegador, recuerda que los errores son amigos.
+Recuerda revisar la manipulacion del DOM me parece que esto fue lo que mas se te complico.
+No te olvides de hacer uso de las herramientas para hacer debbuging, incluidas las que ya tienes en el navegador, recuerda que los errores son amigos.
 
